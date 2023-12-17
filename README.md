@@ -1,2 +1,1 @@
-# rt
-Go ADL Runtime
+# Go ADL Runtime
